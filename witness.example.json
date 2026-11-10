@@ -1,0 +1,4 @@
+{
+  "witness_url": "https://witness.subnet404.xyz",
+  "proof_parameters": "/absolute/path/to/404-gen-subnet@witness-client-v0.2.19/witness-server/worker/witness_pod/verifier/params"
+}
