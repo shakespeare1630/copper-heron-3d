@@ -1,4 +1,4 @@
-"""Fork of lark-ridge r90a with the judged final tilt (pipeline.judged_tilt). The plan this submission runs. r90a (11-07 03:0xZ): one lineage instead of two (the final pick between two lineages measured 50% on 27 judged pairs), the second lineage's budget spent on four more gated steps (Astra high, three Sol xhigh); r70a budget reservation."""
+"""Fork of lark-ridge r90a with the judged final tilt (pipeline.judged_tilt) and the archive pick (pipeline.archive_pick). The plan this submission runs. r90a (11-07 03:0xZ): one lineage instead of two (the final pick between two lineages measured 50% on 27 judged pairs), the second lineage's budget spent on four more gated steps (Astra high, three Sol xhigh); r70a budget reservation."""
 
 from __future__ import annotations
 
